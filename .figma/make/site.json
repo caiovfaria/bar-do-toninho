@@ -1,0 +1,10 @@
+{
+  "description": "This web application offers a vibrant platform for community bars, showcasing their events, menus, and promotions to engage local patrons effectively.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
