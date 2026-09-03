@@ -340,7 +340,7 @@ export default function App() {
                 Palmeiras com a Travessa da Saudade.
               </p>
               <p>
-                Trinta e sete anos depois, os tamboretes viraram mesas, o bar cresceu três
+                Quase quatro décadas depois, os tamboretes viraram mesas, o bar cresceu três
                 vezes, mas a fórmula continua a mesma: chope tirado com cuidado, petisco feito na
                 hora e a porta sempre aberta pra quem chega.
               </p>
@@ -354,7 +354,7 @@ export default function App() {
               style={{ border: "1px solid rgba(201,125,16,0.2)" }}
             >
               {[
-                { num: "37", label: "Anos de história" },
+                { num: "39", label: "Anos de história" },
                 { num: "8", label: "Mesas & banquetas" },
                 { num: "∞", label: "Histórias contadas" },
               ].map(({ num, label }) => (
@@ -743,6 +743,9 @@ export default function App() {
         </p>
         <p className="font-mono-bar text-xs uppercase tracking-widest" style={{ color: "#7a5c3a" }}>
           © 2026 · Desde 1987 · Rua das Palmeiras, 114
+        </p>
+        <p className="font-mono-bar text-xs uppercase tracking-widest mt-2" style={{ color: "#5f482f" }}>
+          Projeto conceitual para portfólio · Informações demonstrativas
         </p>
       </footer>
     </div>
